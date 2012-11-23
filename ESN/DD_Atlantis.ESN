@@ -17,7 +17,7 @@ StringVar="¡Última oleada!"
 StringVar="¡Oleada del Jefe final!"
 
 [TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_9 DunDef_SeqVar_LocalizedString]
-StringVar="Cuidado con los Wyvern Acuáticos"
+StringVar="Cuidado con las Sierpes Marinas"
 
 [TheWorld:PersistentLevel.Main_Sequence.Prefabs.Prefab_PerLevelStartup_Seq.DunDef_SeqVar_LocalizedString_0 DunDef_SeqVar_LocalizedString]
 StringVar="¡Salva Aquanos antes de que suba la marea!"
@@ -26,7 +26,7 @@ StringVar="¡Salva Aquanos antes de que suba la marea!"
 StringVar="¡Has recogido el fragmento de Eternia de Aquanos!"
 
 [TheWorld:PersistentLevel.Main_Sequence.Prefabs.Prefab_PerLevelWaveSpawners.BossFight.BossTimer.DunDef_SeqVar_LocalizedString_0 DunDef_SeqVar_LocalizedString]
-StringVar="El Jefe se está acercando..."
+StringVar="El Jefe se acerca..."
 
 [TheWorld:PersistentLevel.Main_Sequence.Prefabs.Prefab_PerLevelWaveSpawners.BossFight.DunDef_SeqVar_LocalizedString_1 DunDef_SeqVar_LocalizedString]
 StringVar="El Kraken"

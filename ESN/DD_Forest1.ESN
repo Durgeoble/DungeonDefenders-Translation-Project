@@ -27,7 +27,7 @@ StringVar="¡Has recogido un fragmento mágico de Eternia de Mistymire!"
 StringVar="¡Defiende los Cristales de Eternia estén donde estén!"
 
 [TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_9 DunDef_SeqVar_LocalizedString]
-StringVar="Cuidado con los Wyvern"
+StringVar="Cuidado con las Sierpes"
 
 [TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_8 DunDef_SeqVar_LocalizedString]
 StringVar="Olea del Jefe final"
